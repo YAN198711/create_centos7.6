@@ -18,7 +18,7 @@ pyenv rehash
 # pipインストール
 # ------------------------
 pip install --upgrade pip
-pip install -r ~/server_setup_for_centos/requirements.txt
+pip install -r ~/create_centos7.6/requirements.txt
 
 # ------------------------
 # TA-Libのインストール
